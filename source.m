@@ -1,7 +1,7 @@
 % Jonny Duong and David Tran (8/21/20)
 % Program: Final Project
 % {
-% This script allows the study fluid behavior in 2D using smoothed particle hydrodynamics (SPH) on a spatially-hashed 
+% This script allows the study of fluid behavior in 2D using smoothed particle hydrodynamics (SPH) on a spatially-hashed 
 % domain. The forces driving a single particle in your simulation are relatively simple, but the combined behavior of
 % the entire particle system can model some amazingly complicated fluid behaviors. This task is accomplished by using
 % an array of structures, allowing each particle to have the same set of characteristics: position, velocity, force,
