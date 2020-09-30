@@ -1,11 +1,11 @@
 % Jonny Duong and David Tran (8/21/20)
 % Program: Final Project
 % {
-% Your objective for the final project is to develop a set of MATLAB codes that will allow you to study
-% fluid behavior in 2D using smoothed particle hydrodynamics (SPH) on a spatially-hashed domain. The
-% forces driving a single particle in your simulation are relatively simple, but the combined behavior of the
-% entire particle system can model some amazingly complicated fluid behaviors. Review the lecture slides and
-% check this document frequently for any updates. 
+% This script allows the study fluid behavior in 2D using smoothed particle hydrodynamics (SPH) on a spatially-hashed 
+% domain. The forces driving a single particle in your simulation are relatively simple, but the combined behavior of
+% the entire particle system can model some amazingly complicated fluid behaviors. This task is accomplished by using
+% an array of structures, allowing each particle to have the same set of characteristics: position, velocity, force,
+% density, etc. Multiple functions are created to ease readability and expedite debugging. 
 % }
 
 % These are the clear and close commands.
